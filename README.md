@@ -1,4 +1,17 @@
-# Django Starter with CustomUser, Django Documentation Generator, DEV-PROD settings, pipenv, and Heroku Procfile
+# DjangoCustomUserStarter-codespaces
+
+## Questions and Concepts
+
+### Questions
+
+### Concepts
+
+* Enable browser preview in VS Code:
+  * [`config/settings/development.py`](./config/settings/development.py):
+
+    ```python
+    X_FRAME_OPTIONS = "ALLOW-FROM preview.app.github.dev"
+    ```
 
 * NOTE: Author is using PowerShell for this guide.
 
