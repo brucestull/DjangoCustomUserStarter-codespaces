@@ -4,6 +4,7 @@
 
 * Get environment variables:
   * `printenv`
+* [`django-browser-reload` - PyPI](https://pypi.org/project/django-browser-reload/)
 
 ## Errors and Issues
 
