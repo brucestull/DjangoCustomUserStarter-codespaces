@@ -6,6 +6,10 @@
   * `printenv`
 * [`django-browser-reload` - PyPI](https://pypi.org/project/django-browser-reload/)
 
+## Questions
+
+* How to restrict the number of packages installed in the container?
+
 ## Errors and Issues
 
 ### Linting Issues
